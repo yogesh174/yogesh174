@@ -1,5 +1,5 @@
 ## Hello there <D𝚎𝚟𝚜/> 👋
-##### I am a coder and a weeb
+##### I am a coder and devops enthusiast
 
 ------------------
 
