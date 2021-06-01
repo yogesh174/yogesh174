@@ -41,7 +41,12 @@ console.log(`Think Code Repeat!`);
 - ⚡ Fun fact: The [IP address](http://52.68.96.58/) of underworld which kirito recieves in the end actually has a website. PS: IYKYK
 
 ------------------
+## Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+------------------
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/surapaneni-yogesh-ba7303189/">
