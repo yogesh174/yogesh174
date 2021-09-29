@@ -44,11 +44,11 @@ console.log(`Think Code Repeat!`);
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-cloud K8s cluster with Terraform and Ansible](https://kirito174.hashnode.dev/multi-cloud-k8s-terraform-ansible)
 - [GUI Apps and Desktop Environment on Docker](https://kirito174.medium.com/gui-apps-and-desktop-environment-on-docker-3c064d71ab62?source=rss-4b5060b643b3------2)
 - [Setup a unique Network  Topology](https://kirito174.medium.com/setup-a-unique-network-topology-f340895278ed?source=rss-4b5060b643b3------2)
 - [Load var files based on ansible facts](https://kirito174.medium.com/load-var-files-based-on-ansible-facts-bed963999332?source=rss-4b5060b643b3------2)
 - [Configuring Containers with Ansible dynamically](https://kirito174.medium.com/configuring-containers-with-ansible-dynamically-3c8972bcd47c?source=rss-4b5060b643b3------2)
-- [Configuring HAProxy with Ansible on AWS](https://kirito174.medium.com/configuring-haproxy-with-ansible-on-aws-d7e3afd31eb8?source=rss-4b5060b643b3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ------------------
