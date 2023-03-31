@@ -10,7 +10,7 @@
 Bio:
     name: "Yogesh Surapaneni"
     college: "University of Hyderabad"
-    year: 2
+    year: 4
     course: "Integrated MTECH in Computer Science"
     city: "Hyderabad"
 ```
@@ -18,7 +18,7 @@ Bio:
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/yogesh174/yogesh174/master/img.gif" width="420" /><br>
 
 ```python
-print(f"Currently learning : {Jenkins}")
+print(f"Currently learning : {Deep Learning}")
 ```
 
 ```java
@@ -36,9 +36,8 @@ console.log(`Think Code Repeat!`);
 ## About me
 
 - 📫 How to reach me: surapaneniyogesh11@gmail.com, +91 7330893359
-- 💬 Ask me about DevOps, Cloud, ML & DL, Flutter, Anime
+- 💬 Ask me about ML & DL, DevOps, Cloud, Anime
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The [IP address](http://52.68.96.58/) of underworld which kirito recieves in the end actually has a website. PS: IYKYK
 
 ------------------
 ## Latest Blog Posts
